@@ -1,0 +1,7 @@
+se configura arch linux en consola y se habilita git
+
+se clona repositorio
+
+git pull comprobado
+
+se realiza commit de este archivo para confirmar operatividad en ambos sistemas
