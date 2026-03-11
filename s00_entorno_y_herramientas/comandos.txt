@@ -1,0 +1,10 @@
+
+python3 --version
+
+sudo apt update && sudo apt install python3.12 python3.12-venv python3-pip
+
+# para arch
+
+sudo pacman -S python
+sudo pacman -S python-pip
+
